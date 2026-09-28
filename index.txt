@@ -11,3 +11,4 @@ TC006 - Change password
 CONTACT INFO
 ============
 Email: support@example.com
+Phone: 0123 456 789
