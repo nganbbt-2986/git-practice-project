@@ -7,3 +7,7 @@ TC003 - Login with empty fields
 TC004 - Logout
 TC005 - Reset password
 TC006 - Change password
+
+CONTACT INFO
+============
+Email: support@example.com
