@@ -6,3 +6,4 @@ TC002 - Login with invalid password
 TC003 - Login with empty fields
 TC004 - Logout
 TC005 - Reset password
+TC006 - Change password
