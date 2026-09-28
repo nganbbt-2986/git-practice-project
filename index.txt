@@ -1,0 +1,8 @@
+TEST CASE LIST
+==============
+
+TC001 - Login with valid credentials
+TC002 - Login with invalid password
+TC003 - Login with empty fields
+TC004 - Logout
+TC005 - Reset password
